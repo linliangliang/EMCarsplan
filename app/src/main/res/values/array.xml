@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="role">
+        <item>北京驻外人员</item>
+        <item>市场部</item>
+    </string-array>
+</resources>
